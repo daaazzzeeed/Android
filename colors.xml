@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CD5C5C</color>
+    <color name="colorPrimaryDark">#8B0000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="dark_cyan">#008B8B</color>
+     <color name="light_sky_blue">#87CEFA</color>
+    <color name="dark_salmon">#E9967A</color>
+    <color name="gainsBoro">#DCDCDC</color>
+    <color name="grey">#808080</color>
+</resources>
